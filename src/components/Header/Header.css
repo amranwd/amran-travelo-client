@@ -1,0 +1,10 @@
+.head,
+.user-name{
+    border:none;
+    background: none;
+}
+
+a.nav-link {
+    font-size: 18px;
+    font-weight: 500;
+}

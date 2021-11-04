@@ -1,0 +1,26 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+    position: relative;
+}
+.banner-height {
+    height: 530px;
+    text-align: center;
+}
+
+.content h3.banner-text {
+    display: inline-block;
+    padding: 7px 20px;
+    color: #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+h3.banner-text.yellow {
+    background-color: #fdb714;
+}
+
+h3.banner-text.blue {
+    background-color: #01b7f2;
+}

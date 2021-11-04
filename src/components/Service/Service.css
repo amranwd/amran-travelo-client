@@ -1,0 +1,17 @@
+.service-bg {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-color: #ddd;
+}
+
+.single-service h3 {
+    font-size: 22px;
+}
+
+.single-service {
+    text-align: left;
+    border: 1px solid #ccc;
+    margin-bottom: 25px;
+    border-radius: 5px;
+}
